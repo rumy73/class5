@@ -1,0 +1,373 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+
+body{
+	background-color: #f6f9f9;
+	font-family: 'Lato', sans-serif;
+}
+
+/*parent-sec*/
+header{
+	width: 100%;
+	float: left;
+	padding: 24px 0px;
+}
+
+.logo{
+
+}
+
+/*parent-sec*/
+.banner{
+	width: 100%;
+	float: left;
+	padding: 25px 0px;
+
+	background: url(../img/banner.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.banner-content{
+	padding-top: 190px;
+	padding-bottom: 60px;
+	width: 60%;
+	margin: 0 auto;
+	text-align: center;
+
+}
+
+.banner-content h2{
+	font-size: 120pt;
+	color: white;
+	font-weight: bold;
+	
+
+}
+
+span{
+	color: #15a4fa;
+	border-bottom: 2px solid;
+	display: block;
+	width: 80%;
+	margin: 24px auto;
+
+
+}
+
+.banner-content p{
+	font-size: 20px;
+	color: white;
+	font-weight: 300;
+	margin-bottom: 60px;
+
+}
+
+.btn-one{
+	background: transparent;
+	border: 1px solid #15a4fa;
+	padding: 12px 24px;
+	color: white;
+	font-size: 20px;
+
+}
+
+.icon-type{
+	text-align: center;
+	margin-top: 175px;
+	margin-bottom: 100px;
+	color: white;
+	font-size: 18px;
+
+
+}
+
+/*parent-sec*/
+.white{
+	width: 100%;
+	float: left;
+	padding: 50px 0px;
+	background-color: #f6f9f9;
+
+}
+
+.content-one{
+	margin: 0 auto;
+	text-align: center;
+
+
+}
+
+.content-one h2{
+	color: #2d3950;
+	font-size: 40px;
+
+}
+
+.content-one p{
+	color: #c1c3c3;
+	font-size: 20px;
+	margin-top: 15px;
+
+}
+
+/*parent-sec*/
+.icon-bar{
+	width: 100%;
+	float: left;
+	padding: 25px 0px;
+	background-color: #f6f9f9;
+
+
+}
+
+.icon-one{
+	width: 33.33%;
+	float: left;
+	text-align: center;
+
+
+}
+
+.icon-one h2{
+	color: #2d3950;
+	font-size: 22px;
+	margin-top: 10px;
+
+}
+
+.icon-one p{
+	font-size: 15px;
+	color: #999999;
+	margin-top: 10px;
+
+}
+
+.fa.fa-mobile{
+	background: #5fc3ff;
+	color: white;
+	width: 80px;
+	height: 80px;
+	line-height: 80px;
+	font-size: 80px;
+
+}
+
+.fa.fa-paper-plane{
+	background: #5fc3ff;
+	color: white;
+	width: 80px;
+	height: 80px;
+	line-height: 80px;
+	font-size: 50px;
+
+
+}
+
+.fa.fa-bullhorn{
+	background: #5fc3ff;
+	color: white;
+	width: 80px;
+	height: 80px;
+	line-height: 80px;
+	font-size: 55px;
+
+
+}
+
+/*parent-sec*/
+.blue{
+	width: 100%;
+	float: left;
+	padding: 25px 0px;
+	background-color: #f6f9f9;
+
+}
+
+.text{
+	text-align: center;
+
+}
+
+.text h2{
+
+}
+
+.text p{
+
+}
+
+
+/*parent-sec*/
+.pink{
+	width: 100%;
+	float: left;
+	padding: 25px 0px;
+	background-color: #f6f9f9;
+
+}
+
+.banner-one{
+	width: 33.33%;
+	float: left;
+	padding: 15px 0;
+}
+
+.banner-two{
+	width: 33.33%;
+	float: left;
+	padding: 15px 0;
+}
+
+/*parent-sec*/
+.contact{
+	width: 100%;
+	float: left;
+	padding: 25px 0px;
+	background: url(../img/road.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 700px;
+
+	
+
+}
+
+.contact-content{
+	text-align: center;
+
+}
+
+.contact-content h2{
+	color: #ffffff;
+	font-size: 41px;
+}
+
+.contact-content p{
+	color: #999999;
+	font-size: 15px;
+	margin-top: 20px;
+}
+
+.contact-form{
+	padding: 50px;
+	margin: 0 auto;
+	text-align: center;
+	width: 50%;
+}
+
+.form-control{
+	width: 100%;
+	margin-bottom: 20px;
+	padding: 20px;
+	background: transparent;
+    border: 1px solid #999999;
+
+}
+
+.text-form{
+	width: 100%;
+	margin-bottom: 20px;
+	padding: 20px;
+	height: 150px;
+	background: transparent;
+    border: 1px solid #999999;
+	
+
+}
+
+.btn-two{
+	background: transparent;
+	border: 1px solid #15a4fa;
+	padding: 12px 24px;
+	color: white;
+	font-size: 20px;
+	
+
+
+}
+
+
+.end{
+	width: 100%;
+	float: left;
+	padding: 25px 0px;
+	background-color: #f6f9f9;
+
+}
+
+.end-one{
+
+	width: 80%;
+	float: left;
+
+}
+
+.end-one h6{
+	color: #999999;
+}
+
+.end-two{
+	width: 20%;
+	float: left;
+
+
+}
+
+.fa.fa-facebook{
+	background: #15a4fa;
+    color: white;
+    width: 15px;
+    height: 15px;
+    line-height: 15px;
+    font-size: 15px;
+    margin: 0 8px;
+    padding: 10px;
+}
+
+.fa.fa-instagram{
+	background: #15a4fa;
+    color: white;
+    width: 15px;
+    height: 15px;
+    line-height: 15px;
+    font-size: 15px;
+    margin: 0 8px;
+    padding: 10px;
+	
+}
+
+.fa.fa-linkedin{
+	background: #15a4fa;
+    color: white;
+    width: 15px;
+    height: 15px;
+    line-height: 15px;
+    font-size: 15px;
+    margin: 0 8px;
+    padding: 10px;
+	
+}
+
+.fa.fa-twitter{
+	background: #15a4fa;
+    color: white;
+    width: 15px;
+    height: 15px;
+    line-height: 15px;
+    font-size: 15px;
+    margin: 0 8px;
+    padding: 10px;
+	
+}
+
+
